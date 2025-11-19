@@ -16,6 +16,7 @@ const winningLines = [
 
 
 //test
+//test2
 // Returns {winner: 'X'|'O', line: [i,j,k]} or null
 const findWinningLine = (board) => {
   for (const line of winningLines) {
